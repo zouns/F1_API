@@ -1,0 +1,156 @@
+[
+	{
+		"eventId":"2015_F1_ITALY_QUALI",
+		"displayName":"Qualifications",
+		"timeline": [
+			{
+				"type": "ccast",
+				"id": 0,
+				"highlight": false,
+				"date": {
+					"timestamp": 1434220290
+				},
+				"content": {
+					"id": 32193,	
+					"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D5A/C20/540/D5AC20540ACD7C8EABCB3608D3F537C5_212x159.png",
+					"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
+					"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010.",
+					"duration": 34029,
+					"cams": [
+						{
+							"id": "CAM18",
+							"displayName": "",
+							"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+						}
+					]
+				}
+			},
+			{
+				
+				"type": "ccast",
+				"id": 0,
+				"highlight": false,
+				"date": {
+					"timestamp": 1434220290
+				},
+				"content": {
+					"id": 32193,	
+					"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D5A/C20/540/D5AC20540ACD7C8EABCB3608D3F537C5_212x159.png",
+					"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
+					"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010.",
+					"duration": 34029,
+					"cams": [
+						{
+							"id": "CAM18",
+							"displayName": "",
+							"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+						}
+					]
+				}
+			
+			},
+			{
+				
+				"type": "ccast",
+				"id": 0,
+				"highlight": false,
+				"date": {
+					"timestamp": 1434220290
+				},
+				"content": {
+					"id": 32193,	
+					"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D5A/C20/540/D5AC20540ACD7C8EABCB3608D3F537C5_212x159.png",
+					"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
+					"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010.",
+					"duration": 34029,
+					"cams": [
+						{
+							"id": "CAM18",
+							"displayName": "",
+							"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+						}
+					]
+				}
+			
+			}
+		]
+	},
+	{
+		"eventId":"2015_F1_ITALY_RACE",
+		"displayName":"La Course",
+		"timeline": [
+			{
+				
+				"type": "ccast",
+				"id": 0,
+				"highlight": false,
+				"date": {
+					"timestamp": 1434220290
+				},
+				"content": {
+					"id": 32193,	
+					"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D5A/C20/540/D5AC20540ACD7C8EABCB3608D3F537C5_212x159.png",
+					"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
+					"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010.",
+					"duration": 34029,
+					"cams": [
+						{
+							"id": "CAM18",
+							"displayName": "",
+							"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+						}
+					]
+				}
+			
+			},
+			{
+				
+				"type": "ccast",
+				"id": 0,
+				"highlight": false,
+				"date": {
+					"timestamp": 1434220290
+				},
+				"content": {
+					"id": 32193,	
+					"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D5A/C20/540/D5AC20540ACD7C8EABCB3608D3F537C5_212x159.png",
+					"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
+					"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010.",
+					"duration": 34029,
+					"cams": [
+						{
+							"id": "CAM18",
+							"displayName": "",
+							"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+						}
+					]
+				}
+			
+			},
+			{
+				
+				"type": "ccast",
+				"id": 0,
+				"highlight": false,
+				"date": {
+					"timestamp": 1434220290
+				},
+				"content": {
+					"id": 32193,	
+					"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D5A/C20/540/D5AC20540ACD7C8EABCB3608D3F537C5_212x159.png",
+					"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
+					"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010.",
+					"duration": 34029,
+					"cams": [
+						{
+							"id": "CAM18",
+							"displayName": "",
+							"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+						}
+					]
+				}
+			
+			}
+		]
+	}
+]

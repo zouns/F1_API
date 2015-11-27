@@ -1,0 +1,75 @@
+[
+	{
+		"id": "",
+		"name": "",
+		"displayName": "Classement",
+		"orderDisplay": 1,
+		"teams": [
+			{
+				"id": "",
+				"displayName": "Lewis Hamilton",
+				"imageUrl": "",
+				"rang": "1er",
+				"position": 1,
+				"points": {
+					"total": "1'56''223",
+					"secondTitle": "Mercedes",
+					"thirdTitle": "",
+				},
+				"promotion": "NOT USED"
+			},
+			{
+				"id": "",
+				"displayName": "Nico Roseberg",
+				"imageUrl": "",
+				"rang": "2e",
+				"position": 2,
+				"points": {
+					"total": "1'56''223",
+					"secondTitle": "Mercedes",
+					"thirdTitle": "",
+				},
+				"promotion": "NOT USED"
+			},
+			{
+				"id": "",
+				"displayName": "Sebastian Vettel",
+				"imageUrl": "",
+				"rang": "3e",
+				"position": 3,
+				"points": {
+					"total": "1'56''223",
+					"secondTitle": "Ferrari",
+					"thirdTitle": "",
+				},
+				"promotion": "NOT USED"
+			},
+			{
+				"id": "",
+				"displayName": "Valteri Bottas",
+				"imageUrl": "",
+				"rang": "4e",
+				"position": 4,
+				"points": {
+					"total": "1'56''223",
+					"secondTitle": "Williams",
+					"thirdTitle": "",
+				},
+				"promotion": "NOT USED"
+			},
+			{
+				"id": "",
+				"displayName": "Kimi Raikkonen",
+				"imageUrl": "",
+				"rang": "5e",
+				"position": 5,
+				"points": {
+					"total": "1'56''223",
+					"secondTitle": "Mercedes",
+					"thirdTitle": "",
+				},
+				"promotion": "NOT USED"
+			}
+		]
+	}
+]

@@ -1,0 +1,62 @@
+{
+	"id":"2015_F1_ITALY_QUALI",
+	"appAvailable":true,
+	"schedule": {
+		"startDate":1432390500,
+		"displayDate":"2015-05-23",
+		"displayDatetime":"18h00"
+	},
+	"channel": {
+		"displayName":"CANAL+SPORT",
+		"logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-809px-Canal%2B_Sport_%282013%29.svg.png"
+	},
+	"feed": {
+		"start":1432746005,
+		"end":1432749645,
+		"cams": [
+			{
+				"epgID":"9",
+				"displayName":"Réalisé C+",
+				"picto":"antenne"
+			},
+			{
+				"epgID":"90",
+				"displayName":"On board",
+				"picto":"onboard"
+			}
+		]
+	},
+	"image":"http://medias.lequipe.fr/img-stade:rugby-jpg/stade/_DEFAULT_/0-1400-0-74/?4",
+	"video": {
+		"idPFV":"1267523",
+		"idATG":""
+	},
+	"status": {
+		"id":"finished",
+		"name":"termine",
+		"displayName":"Session terminé"
+	},
+	"competition": {
+		"id":"F1",
+		"displayName":"Formule 1"
+	},
+	"saison": {
+		"id":"2015",
+		"displayName":"Saison 2014/2015"
+	},
+	"group": {
+		"id":"2015_F1_ITALY",
+		"displayName":"Grand Prix d'Italie"
+	},
+	"place": {
+		"title":"Monza",
+		"secondTitle":"Record du tour : 1'26''342",
+		"description":"Le circuit de Monza est l'un des plus anciens du championnat du monde de Formule 1. Le public est toujours au rendez-vous pour supporter l'écurie locale, Ferrari.",
+		"urlImageTrack":"",
+		"urlImagePlayerMobile":"",
+		"urlImagePlayerTablette":""
+	},
+	"roundid":"",
+	"teams": {
+	}
+}
