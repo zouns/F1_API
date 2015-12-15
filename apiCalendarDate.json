@@ -1,0 +1,411 @@
+[
+	{
+		"date": 1443787200,
+		"displayDate": "Vendredi 02 octobre",
+		"groups": [
+			{
+				"id": "",
+				"name": "GP Italy",
+				"displayName": "Grand Prix d'Italie",
+				"imageUrl": "",
+				"competition": {
+					"id": "f1",
+					"displayName": "Formule 1"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					{
+						"id":"2015_F1_Italy_FP1",
+						"appAvailable":true,
+						"schedule": {
+							"startDate":1432390500,
+							"displayDate":"2015-05-23",
+							"displayDateTime" : "14h00"
+						},
+						"channel": {
+							"displayName":"CANAL+SPORT",
+							"logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-809px-Canal%2B_Sport_%282013%29.svg.png"
+						},
+						"feed": {
+							"start":1432746005,
+							"end":1432749645,
+							"cams": [
+								{
+									"epgID":"9",
+									"displayName":"Réalisé C+",
+									"picto":"antenne"
+								},
+								{
+									"epgID":"90",
+									"displayName":"Onboard",
+									"picto":"onboard"
+								}
+							]
+						},
+						"image":"http://medias.lequipe.fr/img-stade:rugby-jpg/stade/_DEFAULT_/0-1400-0-74/?4",
+						"video": {
+							"idPFV":"1267523",
+							"idATG":""
+						},
+						"status": {
+							"id":"finished",
+							"name":"termine",
+							"displayName":"Session terminée"
+						},
+						"competition": {
+							"id":"f1",
+							"displayName":"Formule 1"
+						},
+						"saison": {
+							"id":"2015",
+							"displayName":"Saison 2014/2015"
+						},
+						"group": {
+							"id":"2015_F1_Italy",
+							"displayName":"Grand prix d'Italie"
+						},
+						"roundid":"",
+						"teams": null
+					}
+				]
+			}		
+		]
+	},
+	{
+		"date": 1444996800,
+		"displayDate": "Vendredi 16 octobre",
+		"groups": [
+			{
+				"id": "",
+				"name": "GP Italy",
+				"displayName": "Grand Prix d'Italie",
+				"imageUrl": "",
+				"competition": {
+					"id": "f1",
+					"displayName": "Formule 1"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					
+					{
+						"id":"2015_F1_Italy_FP2",
+						"appAvailable":true,
+						"schedule": {
+							"startDate":1432390500,
+							"displayDate":"2015-05-23",
+							"displayDateTime" : "14h00"
+						},
+						"channel": {
+							"displayName":"CANAL+SPORT",
+							"logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-809px-Canal%2B_Sport_%282013%29.svg.png"
+						},
+						"feed": {
+							"start":1432746005,
+							"end":1432749645,
+							"cams": [
+								{
+									"epgID":"9",
+									"displayName":"Réalisé C+",
+									"picto":"antenne"
+								},
+								{
+									"epgID":"90",
+									"displayName":"Onboard",
+									"picto":"onboard"
+								}
+							]
+						},
+						"image":"http://medias.lequipe.fr/img-stade:rugby-jpg/stade/_DEFAULT_/0-1400-0-74/?4",
+						"video": {
+							"idPFV":"1267523",
+							"idATG":""
+						},
+						"status": {
+							"id":"finished",
+							"name":"termine",
+							"displayName":"Session terminée"
+						},
+						"competition": {
+							"id":"f1",
+							"displayName": "Formule 1"
+						},
+						"saison": {
+							"id":"2015",
+							"displayName":"Saison 2014/2015"
+						},
+						"group": {
+							"id":"2015_F1_Italy",
+							"displayName":"Grand prix d'Italie"
+						},
+						"roundid":"",
+						"teams": null
+					},
+
+					{
+						"id":"2015_F1_Italy_FP3",
+						"appAvailable":true,
+						"schedule": {
+							"startDate":1432390500,
+							"displayDate":"2015-05-23",
+							"displayDateTime" : "14h00"
+						},
+						"channel": {
+							"displayName":"CANAL+SPORT",
+							"logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-809px-Canal%2B_Sport_%282013%29.svg.png"
+						},
+						"feed": {
+							"start":1432746005,
+							"end":1432749645,
+							"cams": [
+								{
+									"epgID":"9",
+									"displayName":"Réalisé C+",
+									"picto":"antenne"
+								},
+								{
+									"epgID":"90",
+									"displayName":"Onboard",
+									"picto":"onboard"
+								}
+							]
+						},
+						"image":"http://medias.lequipe.fr/img-stade:rugby-jpg/stade/_DEFAULT_/0-1400-0-74/?4",
+						"video": {
+							"idPFV":"1267523",
+							"idATG":""
+						},
+						"status": {
+							"id":"finished",
+							"name":"termine",
+							"displayName":"Session terminée"
+						},
+						"competition": {
+							"id":"f1",
+							"displayName":"Formule 1"
+						},
+						"saison": {
+							"id":"2015",
+							"displayName":"Saison 2014/2015"
+						},
+						"group": {
+							"id":"2015_F1_Italy",
+							"displayName":"Grand prix d'Italie"
+						},
+						"roundid":"",
+						"teams": null
+					}
+				]
+			}		
+		]
+	},
+	{
+		"date": 1445601600,
+		"displayDate": "Aujourd'hui",
+		"groups": [
+			{
+				"id": "2015_F1_Italy",
+				"name": "GP Italy",
+				"displayName": "Grand Prix d'Italie",
+				"imageUrl": "",
+				"competition": {
+					"id": "f1",
+					"displayName": "Formule 1"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					{
+						"id":"2015_F1_Italy_QUALI",
+						"appAvailable":true,
+						"schedule": {
+							"startDate":1432390500,
+							"displayDate":"2015-05-23",
+							"displayDateTime" : "14h00"
+						},
+						"channel": {
+							"displayName":"CANAL+SPORT",
+							"logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-809px-Canal%2B_Sport_%282013%29.svg.png"
+						},
+						"feed": {
+							"start":1432746005,
+							"end":1432749645,
+							"cams": [
+								{
+									"epgID":"9",
+									"displayName":"Réalisé C+",
+									"picto":"antenne"
+								},
+								{
+									"epgID":"90",
+									"displayName":"Onboard",
+									"picto":"onboard"
+								}
+							]
+						},
+						"image":"http://medias.lequipe.fr/img-stade:rugby-jpg/stade/_DEFAULT_/0-1400-0-74/?4",
+						"video": {
+							"idPFV":"1267523",
+							"idATG":""
+						},
+						"status": {
+							"id":"finished",
+							"name":"termine",
+							"displayName":"Session terminée"
+						},
+						"competition": {
+							"id":"2015_F1",
+							"displayName":"Formule 1"
+						},
+						"saison": {
+							"id":"2015",
+							"displayName":"Saison 2014/2015"
+						},
+						"group": {
+							"id":"2015_F1_Italy",
+							"displayName": "Grand Prix d'Italie"
+						},
+						"roundid":"",
+						"teams": null
+					},
+					{
+						"id":"2015_F1_Italy_QUALI",
+						"appAvailable":true,
+						"schedule": {
+							"startDate":1432390500,
+							"displayDate":"2015-05-23",
+							"displayDateTime" : "14h00"
+						},
+						"channel": {
+							"displayName":"CANAL+SPORT",
+							"logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-809px-Canal%2B_Sport_%282013%29.svg.png"
+						},
+						"feed": {
+							"start":1432746005,
+							"end":1432749645,
+							"cams": [
+								{
+									"epgID":"9",
+									"displayName":"Réalisé C+",
+									"picto":"antenne"
+								},
+								{
+									"epgID":"90",
+									"displayName":"Onboard",
+									"picto":"onboard"
+								}
+							]
+						},
+						"image":"http://medias.lequipe.fr/img-stade:rugby-jpg/stade/_DEFAULT_/0-1400-0-74/?4",
+						"video": {
+							"idPFV":"1267523",
+							"idATG":""
+						},
+						"status": {
+							"id":"finished",
+							"name":"termine",
+							"displayName":"Session terminée"
+						},
+						"competition": {
+							"id":"2015_F1",
+							"displayName":"Formule 1"
+						},
+						"saison": {
+							"id":"2015",
+							"displayName":"Saison 2014/2015"
+						},
+						"group": {
+							"id":"2015_F1_Italy",
+							"displayName": "Grand Prix d'Italie"
+						},
+						"roundid":"",
+						"teams": null
+					}	
+				]
+			}		
+		]
+	},
+	{
+		"date": 1445688000,
+		"displayDate": "Demain",
+		"groups": [
+			{
+				"id": "2015_F1_Italy",
+				"name": "GP Italy",
+				"displayName": "Grand Prix d'Italie",
+				"imageUrl": "",
+				"competition": {
+					"id": "f1",
+					"displayName": "Formule 1"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					
+					{
+						"id":"2015_F1_Italy_RACE",
+						"appAvailable":true,
+						"schedule": {
+							"startDate":1432390500,
+							"displayDate":"2015-05-23",
+							"displayDateTime" : "14h00"
+						},
+						"channel": {
+							"displayName":"CANAL+SPORT",
+							"logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/langfr-809px-Canal%2B_Sport_%282013%29.svg.png"
+						},
+						"feed": {
+							"start":1432746005,
+							"end":1432749645,
+							"cams": [
+								{
+									"epgID":"9",
+									"displayName":"Réalisé C+",
+									"picto":"antenne"
+								},
+								{
+									"epgID":"90",
+									"displayName":"Onboard",
+									"picto":"onboard"
+								}
+							]
+						},
+						"image":"http://medias.lequipe.fr/img-stade:rugby-jpg/stade/_DEFAULT_/0-1400-0-74/?4",
+						"video": {
+							"idPFV":"1267523",
+							"idATG":""
+						},
+						"status": {
+							"id":"finished",
+							"name":"termine",
+							"displayName":"Session terminée"
+						},
+						"competition": {
+							"id":"f1",
+							"displayName":"Formule 1"
+						},
+						"saison": {
+							"id":"2015",
+							"displayName":"Saison 2014/2015"
+						},
+						"group": {
+							"id":"2015_F1_Italy",
+							"displayName":"Grand Prix d'Italie"
+						},
+						"roundid":"26",
+						"teams": null
+					}
+				]
+			}
+		]
+	}
+]
